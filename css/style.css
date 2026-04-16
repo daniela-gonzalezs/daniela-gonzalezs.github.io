@@ -9,6 +9,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  font-family: 'Instrument Sans', sans-serif;
+}
+
 header {
   position: sticky;
   top: 0;
